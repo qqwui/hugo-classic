@@ -161,8 +161,9 @@ pre {
 pre code { background: none; }
 
 code {
-  border: 2px solid #EBC3DB;
-  padding: 1em;
+  background-color: light-dark(#D6D6D6, #888);
+  border-radius: 3px;
+  padding: 0.2em;
   overflow-x: auto;
 }
 
