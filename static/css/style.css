@@ -101,7 +101,7 @@ output:
   border-radius: 5px;
   border-style: dotted;
   border-width: 1px;
-  margin-bottom: 20px;
+  margin: 20px 0px 20px 0px;
 }
 
 .terms { font-size: .9em; }
