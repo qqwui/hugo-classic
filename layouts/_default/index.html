@@ -1,21 +1,15 @@
 {{ partial "header.html" . }}
 
 <div class="content-wrapper">
-  <h1>{{ .Title | markdownify }}</h1>
 
   {{ .Content }}
 
   <ul>
-     {{ $pages := .Pages }}
+     {{ $pages := first 5 .Site.RegularPages }}
      {{ range (where $pages "Section" "!=" "") }}
      <li>
        <span class="date">{{ .Date.Format "2006-01-02" }}</span>
        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-       {{ if .Description }}
-       <ul style="list-style: none">
-          <li>{{ .Description }}</li>
-       </ul>
-       {{ end }}
      </li>
      {{ end }}
    </ul>
