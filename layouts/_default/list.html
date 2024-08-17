@@ -1,5 +1,4 @@
-{{ partial "header.html" . }}
-
+{{ define "main" }}
 <div class="content-wrapper">
   <h1>{{ .Title | markdownify }}</h1>
 
@@ -11,13 +10,13 @@
      <li>
        <span class="date">{{ .Date.Format "2006-01-02" }}</span>
        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-       {{ if .Description }}
+       {{ with .Description }}
        <ul style="list-style: none">
-          <li>{{ .Description }}</li>
+          <li>{{ . }}</li>
        </ul>
        {{ end }}
      </li>
      {{ end }}
    </ul>
 </div>
-{{ partial "footer.html" . }}
+{{ end }}
