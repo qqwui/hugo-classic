@@ -2,10 +2,12 @@
 title: Markdown Guide (modified)
 author: Open Source
 date: '2018-08-30'
+description: A quick guide to markdown
 categories:
   - Example
 tags:
   - Markdown
+toc: True
 ---
 
 An h1 header

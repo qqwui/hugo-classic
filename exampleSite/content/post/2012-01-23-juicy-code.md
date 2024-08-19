@@ -2,6 +2,7 @@
 title: Juicy Code
 author: Open Source
 date: '2012-01-23'
+description: Some yummy, refreshing code
 categories:
   - Code
 tags:

@@ -2,6 +2,7 @@
 title: Hacker with Bullhorn
 author: Open-Source
 date: '2012-04-23'
+description: A hacker gives away free tanks
 categories:
   - Bullhorn
   - Example

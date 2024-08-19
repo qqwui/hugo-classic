@@ -1,6 +1,7 @@
 ---
 title: "Command Line Awesomeness"
 date: '2012-03-12'
+description: An explanation on HTML
 categories:
   - Blog
 tags:
