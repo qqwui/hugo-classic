@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Classic</title>
-    <link>https://example.com/tags/</link>
+    <link>https://qqwui.github.io/hugo-classic/tags/</link>
     <description>Recent content in Tags on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qqwui.github.io/hugo-classic/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://qqwui.github.io/hugo-classic/tags/markdown/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>HTML</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://qqwui.github.io/hugo-classic/tags/html/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Juicy</title>
-      <link>https://example.com/tags/juicy/</link>
+      <link>https://qqwui.github.io/hugo-classic/tags/juicy/</link>
       <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/juicy/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/tags/juicy/</guid>
       <description></description>
     </item>
   </channel>

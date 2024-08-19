@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/categories/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/example/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/categories/example/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/tags/markdown/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2018/08/30/markdown-guide-modified/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/post/2018/08/30/markdown-guide-modified/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/post/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/tags/</loc>
     <lastmod>2018-08-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/bullhorn/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/categories/bullhorn/</loc>
     <lastmod>2012-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2012/04/23/hacker-with-horn/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/post/2012/04/23/hacker-with-horn/</loc>
     <lastmod>2012-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/blog/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/categories/blog/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2012/03/12/command-line-awesomeness/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/post/2012/03/12/command-line-awesomeness/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/html/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/tags/html/</loc>
     <lastmod>2012-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/code/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/categories/code/</loc>
     <lastmod>2012-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/juicy/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/tags/juicy/</loc>
     <lastmod>2012-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/2012/01/23/juicy-code/</loc>
+    <loc>https://qqwui.github.io/hugo-classic/post/2012/01/23/juicy-code/</loc>
     <lastmod>2012-01-23T00:00:00+00:00</lastmod>
   </url>
 </urlset>

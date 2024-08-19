@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Classic</title>
-    <link>https://example.com/categories/</link>
+    <link>https://qqwui.github.io/hugo-classic/categories/</link>
     <description>Recent content in Categories on Classic</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://qqwui.github.io/hugo-classic/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://example.com/categories/example/</link>
+      <link>https://qqwui.github.io/hugo-classic/categories/example/</link>
       <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/example/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/categories/example/</guid>
       <description></description>
     </item>
     <item>
       <title>Bullhorn</title>
-      <link>https://example.com/categories/bullhorn/</link>
+      <link>https://qqwui.github.io/hugo-classic/categories/bullhorn/</link>
       <pubDate>Mon, 23 Apr 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/bullhorn/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/categories/bullhorn/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://example.com/categories/blog/</link>
+      <link>https://qqwui.github.io/hugo-classic/categories/blog/</link>
       <pubDate>Mon, 12 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/blog/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://example.com/categories/code/</link>
+      <link>https://qqwui.github.io/hugo-classic/categories/code/</link>
       <pubDate>Mon, 23 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/categories/code/</guid>
+      <guid>https://qqwui.github.io/hugo-classic/categories/code/</guid>
       <description></description>
     </item>
   </channel>
