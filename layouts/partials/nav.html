@@ -1,7 +1,7 @@
   <nav>
     <ul>
       <li class="pull-left">
-        <a href="{{ .Site.BaseURL }}">~/{{ lower .Site.Title}}</a>
+        <a href="{{ "" | relURL }}">~/{{ lower .Site.Title}}</a>
       </li>
       {{ range site.Menus.main }}
       <li class="pull-left">
@@ -15,5 +15,6 @@
       {{end}}
     </ul>
   </nav>
+
 
 
