@@ -13,7 +13,7 @@
       color: #EBC3DB;
     }
 
-    header {
+    nav {
       background: #393E41;
       border-bottom: 2px dotted #EBC3DB;
 
@@ -46,7 +46,7 @@
       color: #613DC1;
     }
 
-    header {
+    nav {
       background: #613DC1;
     }
 
@@ -125,30 +125,28 @@ a:hover {
 }
 
 /* Adjust background at your leisure! */
-header {
+nav {
     position: relative;
     width: 100%;
     height: 1.75rem;
     font-size: 1rem;
+    padding: 0 0.5rem
 }
 
-header ul,
-header ol {
+nav ul,
+nav ol {
     margin: 0;
     padding: 0;
     list-style: none
 }
-header nav {
-    padding: 0 0.5rem
-}
 
-header a {
-    color: #fff;
+nav a {
+    color: #ddd;
     line-height: 1.75rem;
     padding: 0 0.5rem
 }
-header a:hover,
-header .current a {
+nav a:hover,
+nav .current a {
     color: #fff
 }
 
