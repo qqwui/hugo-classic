@@ -13,7 +13,7 @@
       color: #EBC3DB;
     }
 
-    nav {
+    #MainNav {
       background: #393E41;
       border-bottom: 2px dotted #EBC3DB;
 
@@ -46,7 +46,7 @@
       color: #613DC1;
     }
 
-    nav {
+    #MainNav {
       background: #613DC1;
     }
 
@@ -125,7 +125,7 @@ a:hover {
 }
 
 /* Adjust background at your leisure! */
-nav {
+#MainNav {
     position: relative;
     width: 100%;
     height: 1.75rem;
@@ -133,20 +133,20 @@ nav {
     padding: 0 0.5rem
 }
 
-nav ul,
-nav ol {
+#MainNav ul,
+#MainNav ol {
     margin: 0;
     padding: 0;
     list-style: none
 }
 
-nav a {
+#MainNav a {
     color: #ddd;
     line-height: 1.75rem;
     padding: 0 0.5rem
 }
-nav a:hover,
-nav .current a {
+#MainNav a:hover,
+#MainNav .current a {
     color: #fff
 }
 
