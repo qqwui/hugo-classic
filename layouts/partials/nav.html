@@ -1,7 +1,7 @@
   <nav id="MainNav">
     <ul>
       <li class="pull-left">
-        <a href="{{ "" | relURL }}">~/{{ lower .Site.Title}}</a>
+        <a href="{{ "" | absURL }}">~/{{ lower .Site.Title}}</a>
       </li>
       {{ range site.Menus.main }}
       <li class="pull-left">
